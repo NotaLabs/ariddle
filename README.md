@@ -126,6 +126,10 @@ Na okay aber nur gucken wenn du wirklich nicht weiter weißt:
 
 http://pastebin.com/zN3WZr6V
 
+**Junge kennst du Grammatik/Rechtschreibung/Zeichensetzung ?**
+
+Löse erst die Herausforderung und du bekommst für jeden Rechtschreibfehler den du findest 10 Cent (Oder was anderes falls du durch das Rätsel deinen Enthusiasmus für Embbed Development entdeckt hast)  :smile: .
+
 
 
 
