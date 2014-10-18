@@ -34,7 +34,7 @@ _Fachsimpel Modus aus_
 
 ####Anschließen
 
-Erstmal musst du den EEPROM an den Rasberry Pi anschließen, dafür nimm dir einfach folgende erstmal verwirrende Erklärung zur Hand.
+Erstmal musst du den EEPROM an den Rasberry Pi anschließen, dafür nimm dir einfach folgende erstmal verwirrende Erklärung zur Hand. Um die Erklärung anzuwenden musst du die beiden Anschlusserkärungen des Pis und des EEPROMs lesen (unten verlinkt).
 
 | EEPROM  | RasberryPi |
 | ------------- | ------------- |
